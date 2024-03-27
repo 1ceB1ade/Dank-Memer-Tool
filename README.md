@@ -60,6 +60,11 @@ The `config.json` file contains the following settings:
 - `toggle_keybind`: The keybind to toggle the tool on/off.
 - `button_images`: List of button images for the tool to click on.
 
+## Disclaimer
+
+This tool is provided for educational and personal use only. Any misuse or abuse of this tool for malicious purposes is strictly prohibited. The creator(s) of this tool are not responsible for any damages caused by the misuse of this tool.
+
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues for any bugs or feature requests, or submit pull requests with improvements.
