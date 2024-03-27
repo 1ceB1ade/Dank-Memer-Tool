@@ -1,0 +1,7 @@
+{
+    "toggle_keybind": "Insert",
+    "beg_text": "/beg ",
+    "hunt_text": "/hunt ",
+    "crime_text": "/crime ",
+    "deposit_text": "/deposit amount:max  "
+}
